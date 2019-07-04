@@ -22,7 +22,11 @@ execute the ansible playbook.
 
 -> https://docs.openshift.com/container-platform/3.11/install/prerequisites.html
 
+```
 $ sudo ansible-playbook -i hosts-ocp-v3.11.104 /usr/share/ansible/openshift-ansible/playbooks/prerequisites.yml
+```
 
+```
 $ sudo ansible-playbook -i hosts-ocp-v3.11.104 /usr/share/ansible/openshift-ansible/playbooks/deploy_cluster.yml
+```
 
