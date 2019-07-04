@@ -1,5 +1,6 @@
 # Ansible Inventory File - Demo 
-OpenShift installation 3.11.104 inventory file as an example, behind proxy
+OpenShift installation 3.11.104 inventory file as an example, behind PROXY
+
 OpenShift installation 3.11.51 inventory file NO PROXY
 
 Red Hat Enterprise Linux 7.6 + Ansible , bastion host
