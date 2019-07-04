@@ -11,10 +11,12 @@ because in this deployment all infra services of openshift it's running over NFS
 
 DON'T FORGET to change hosts, passwords, proxy, domain, hostname and storage setup.
 
-#Token generation
+# Token generation
+
 https://access.redhat.com/terms-based-registry/
 
 ## Usage
+
 Once all pre reqs were configured, by official ocp documentation
 execute the ansible playbook.
 
